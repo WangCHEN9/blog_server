@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang CHEN&#39;s website on CHEN Wang</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Wang CHEN&#39;s website on CHEN Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who am I</title>
+      <link>https://example.com/blog/first-blog/</link>
+      <pubDate>Thu, 31 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://example.com/blog/first-blog/</guid>
+      <description>Who am I?  An engineer A data scientist A cat lover A poker player  Why engineer? Why a engineer? solve problems, impact on society !
+Why data scientist? That&amp;rsquo;s another vision to view things/problems, and math is so beautiful !
+Why cat lover? Remind the kindest things around me !
+Why poker? Mental exercise, embrance the variance of life, learn how to invest and deal with risk.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Portfolio Website</title>
+      <link>https://example.com/portfolio/hugo-portfolio-website/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/portfolio/hugo-portfolio-website/</guid>
+      <description>I created my portfolio website using Hugo and UIKit, it serves as an online resume containing all my work.
+This has been created as a theme so that others can use and adapt it.
+Sections Homepage The homepage provides the basic information about you, including links to social media, skills you have, things you&amp;rsquo;ve done and your education. This page makes good use of UIKit grid and cards for organising all the information and ensuring it is responsive to work on mobile devices.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on CHEN Wang</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blog on CHEN Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who am I</title>
+      <link>https://example.com/blog/first-blog/</link>
+      <pubDate>Thu, 31 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://example.com/blog/first-blog/</guid>
+      <description>Who am I?  An engineer A data scientist A cat lover A poker player  Why engineer? Why a engineer? solve problems, impact on society !
+Why data scientist? That&amp;rsquo;s another vision to view things/problems, and math is so beautiful !
+Why cat lover? Remind the kindest things around me !
+Why poker? Mental exercise, embrance the variance of life, learn how to invest and deal with risk.</description>
+    </item>
+    
+  </channel>
+</rss>
