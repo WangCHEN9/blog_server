@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on CHEN Wang</title>
-    <link>https://wangchen9.github.io/blog/</link>
+    <link>https://wangchen9.github.io/blog_server/blog/</link>
     <description>Recent content in Blog on CHEN Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://wangchen9.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://wangchen9.github.io/blog_server/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I</title>
-      <link>https://wangchen9.github.io/blog/first-blog/</link>
+      <link>https://wangchen9.github.io/blog_server/blog/first-blog/</link>
       <pubDate>Thu, 31 Dec 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://wangchen9.github.io/blog/first-blog/</guid>
+      <guid>https://wangchen9.github.io/blog_server/blog/first-blog/</guid>
       <description>Who am I?  An engineer A data scientist A cat lover A poker player  Why engineer? Why a engineer? solve problems, impact on society !
 Why data scientist? That&amp;rsquo;s another vision to view things/problems, and math is so beautiful !
 Why cat lover? Remind the kindest things around me !

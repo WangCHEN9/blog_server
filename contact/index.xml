@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on CHEN Wang</title>
-    <link>https://wangchen9.github.io/contact/</link>
+    <link>https://wangchen9.github.io/blog_server/contact/</link>
     <description>Recent content in Contact on CHEN Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wangchen9.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://wangchen9.github.io/blog_server/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
