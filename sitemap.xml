@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/blog/first-blog/</loc>
+    <loc>https://wangchen9.github.io/blog_server/blog/first-blog/</loc>
     <lastmod>2020-12-31T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://wangchen9.github.io/blog_server/categories/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/data-science/</loc>
+    <loc>https://wangchen9.github.io/blog_server/categories/data-science/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/portfolio/hugo-portfolio-website/</loc>
+    <loc>https://wangchen9.github.io/blog_server/portfolio/hugo-portfolio-website/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://wangchen9.github.io/blog_server/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://wangchen9.github.io/blog_server/portfolio/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://wangchen9.github.io/blog_server/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://wangchen9.github.io/blog_server/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://wangchen9.github.io/blog_server/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://wangchen9.github.io/blog_server/tags/</loc>
   </url>
 </urlset>
