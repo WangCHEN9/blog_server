@@ -6,32 +6,14 @@
     <description>Recent content in data-science on Wang CHEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 21 Mar 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://wangchen9.github.io/blog_server/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://wangchen9.github.io/blog_server/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>noiseDetector</title>
-      <link>https://wangchen9.github.io/blog_server/portfolio/noisedetector/</link>
-      <pubDate>Sun, 21 Mar 2021 23:00:00 +0000</pubDate>
+      <title>FaurSound</title>
+      <link>https://wangchen9.github.io/blog_server/portfolio/faursound/</link>
+      <pubDate>Wed, 21 Jul 2021 23:00:00 +0000</pubDate>
       
-      <guid>https://wangchen9.github.io/blog_server/portfolio/noisedetector/</guid>
-      <description>Noise detector using deep learning method (semi-supervised learning with pre-training) to detect seat mechatronic product&amp;rsquo;s abnormal noise. Used in production EOL quality control.</description>
-    </item>
-    
-    <item>
-      <title>TRKSliding</title>
-      <link>https://wangchen9.github.io/blog_server/portfolio/at36_sliding_effort/</link>
-      <pubDate>Fri, 19 Mar 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://wangchen9.github.io/blog_server/portfolio/at36_sliding_effort/</guid>
-      <description>TRKSliding is a project helps manufacturing team optimize seat track assembling process. Using machine learning to determine best ball parameter and grind cycles for assembling process. In order to meet sliding effort quality control.</description>
-    </item>
-    
-    <item>
-      <title>TIGWelding</title>
-      <link>https://wangchen9.github.io/blog_server/portfolio/tigwelding/</link>
-      <pubDate>Fri, 19 Feb 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://wangchen9.github.io/blog_server/portfolio/tigwelding/</guid>
-      <description>TIGWelding is a project using 3D scan data to detect leadscrew welding quality issue. Using auto-encoder to detect outlier of the TIG welding.</description>
+      <guid>https://wangchen9.github.io/blog_server/portfolio/faursound/</guid>
+      <description>FaurSound use computer vision based algorithm to sort &amp;amp; classify noise for Mechatronics. Minimun viable Product(MVP) short demo Production data analysis web app short demo </description>
     </item>
     
     <item>
@@ -41,16 +23,7 @@
       
       <guid>https://wangchen9.github.io/blog_server/portfolio/tada/</guid>
       <description>TADA(Thc Automatic Display Analysis) is a tool for CAL FAS internal use only. it is build to visualize and aggregate the FEA result.
-See details in https://gvscal.github.io/tada/</description>
-    </item>
-    
-    <item>
-      <title>RCDataAnalysis</title>
-      <link>https://wangchen9.github.io/blog_server/portfolio/rc_ds/</link>
-      <pubDate>Tue, 12 Jan 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://wangchen9.github.io/blog_server/portfolio/rc_ds/</guid>
-      <description>This is an explorative project which we look at historical product data from world wide continues recliner assembling line, search for data values and try to improve the process.</description>
+See details in https://wangchen9.github.io/tada/</description>
     </item>
     
   </channel>

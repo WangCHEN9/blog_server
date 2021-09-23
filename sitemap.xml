@@ -2,32 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wangchen9.github.io/blog_server/portfolio/</loc>
+    <lastmod>2021-09-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://wangchen9.github.io/blog_server/categories/</loc>
-    <lastmod>2021-03-21T23:00:00+00:00</lastmod>
+    <lastmod>2021-07-21T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wangchen9.github.io/blog_server/categories/data-science/</loc>
-    <lastmod>2021-03-21T23:00:00+00:00</lastmod>
+    <lastmod>2021-07-21T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wangchen9.github.io/blog_server/portfolio/noisedetector/</loc>
-    <lastmod>2021-03-21T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wangchen9.github.io/blog_server/portfolio/at36_sliding_effort/</loc>
-    <lastmod>2021-03-19T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wangchen9.github.io/blog_server/portfolio/tigwelding/</loc>
-    <lastmod>2021-02-19T23:00:00+00:00</lastmod>
+    <loc>https://wangchen9.github.io/blog_server/portfolio/faursound/</loc>
+    <lastmod>2021-07-21T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wangchen9.github.io/blog_server/portfolio/tada/</loc>
     <lastmod>2021-01-19T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wangchen9.github.io/blog_server/portfolio/rc_ds/</loc>
-    <lastmod>2021-01-12T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wangchen9.github.io/blog_server/blog/first-blog/</loc>
     <lastmod>2020-12-31T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://wangchen9.github.io/blog_server/portfolio/</loc>
-    <lastmod>2020-12-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://wangchen9.github.io/blog_server/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
@@ -39,7 +30,7 @@
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://wangchen9.github.io/blog_server/</loc>
-    <lastmod>2020-10-26T15:26:15+00:00</lastmod>
+    <lastmod>2021-09-22T15:26:15+00:00</lastmod>
   </url><url>
     <loc>https://wangchen9.github.io/blog_server/tags/</loc>
   </url>
